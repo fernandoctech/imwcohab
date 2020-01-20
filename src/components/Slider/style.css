@@ -1,0 +1,19 @@
+.container-manual{
+width: 60%;
+margin:0 auto;
+margin-top: -10rem;
+margin-bottom: 20rem;
+height: 500px;
+}
+@media (max-width: 600px) 
+{
+    .container-manual{
+        width: 100%;
+    }
+}
+@media (max-width: 1000px) 
+{
+    .container-manual{
+        width: 95%;
+    }
+}
